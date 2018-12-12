@@ -20,6 +20,9 @@
     [self foundOne:1];
     
     NSLog(@"ceshi");
+    
+    
+    //scess
 }
 
 -(void)foundOne:(int)num{
